@@ -1,0 +1,23 @@
+{
+  "billers": [
+    {
+      "id": "b1",
+      "name": "Electricity Board",
+      "billerId": "ELEC001"
+    },
+    {
+      "id": "b2",
+      "name": "City Water",
+      "billerId": "WATER01"
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay_001",
+      "biller": "Electricity Board",
+      "amount": 1200,
+      "date": "2025-10-05",
+      "status": "SUCCESS"
+    }
+  ]
+}

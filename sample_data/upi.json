@@ -1,0 +1,28 @@
+{
+  "upiTransactions": [
+    {
+      "id": "upi_001",
+      "to": "7777777777@upi",
+      "amount": 250,
+      "date": "2025-10-08",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "upi_002",
+      "to": "9999999999@upi",
+      "amount": 400,
+      "date": "2025-10-09",
+      "status": "FAILED"
+    }
+  ],
+  "upiIds": [
+    {
+      "id": "u1",
+      "vpa": "keerthana@bank"
+    },
+    {
+      "id": "u2",
+      "vpa": "keerthana.work@bank"
+    }
+  ]
+}
